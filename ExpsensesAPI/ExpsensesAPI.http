@@ -1,0 +1,6 @@
+@ExpsensesAPI_HostAddress = http://localhost:5212
+
+GET {{ExpsensesAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
